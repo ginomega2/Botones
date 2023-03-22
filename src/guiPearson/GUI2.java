@@ -2,46 +2,57 @@ package guiPearson;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.Date;
+import java.util.Scanner;
 
-public class GUI1 {
+
+
+
+public class GUI2 {
+
+    private  JFrame theFrame ;
+    private JButton theButton;
+    private JTextArea theText;
+
+    public void go(){
+
+        theFrame = new JFrame("GUI 2");
+        theFrame.setLayout(new GridLayout(2,1));
+        theButton=new JButton("click me");
+        theText= new JTextArea("edita esto");
+
+
+        class MyButtonHandler implements ActionListener{
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.out.println("mensaje recibido de la ventana con el cuadro de texto " + theText.getText());
+                System.out.println("el boto fue clikado ");
+                theText.append("\n bboton clickado a las "+ new Date());
+            }
+        }
+        theButton.addActionListener(new MyButtonHandler());
+
+
+        theFrame.add(theButton);
+        theFrame.add(theText);
+        theFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        theFrame.setBounds(500,500,300,200);
+        theFrame.setVisible(true);
+    }
+
     public static void main(String[] args) {
-        JFrame jf = new JFrame("GUI COMPONENTS");
-        jf.setLayout(new GridLayout(2,2));
-
-        JButton button = new JButton("dame click");
-        JTextField tf = new JTextField();
-
-
-        JPanel p = new JPanel();
-
-        JRadioButton cb1 =  new JRadioButton("ingles");
-        JRadioButton cb2 = new JRadioButton("frances");
-        JRadioButton cb3 = new JRadioButton("aleman");
-
-        ButtonGroup group = new ButtonGroup();
-        group.add(cb1);
-        group.add(cb2);
-        group.add(cb3);
-
-        p.setLayout(new GridLayout(3,1));
-        p.add(cb1);
-        p.add(cb2);
-        p.add(cb3);
-
-        String [] labels ={"alfonso","juanita","blue demon"};
-        JList l = new JList(labels);
-
-
-        jf.add(button);
-        jf.add(tf);
-        jf.add(p);
-        jf.add(l);
-        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        jf.setBounds(500,500,300,200);
-
-        jf.setVisible(true);
-
-
-
+        new GUI2().go();
     }
 }
+
+
+/*
+
+    How we convert int to String in Java: using Integer.toString(int)
+    How we convert int to String in Java: using String.valueOf(int)
+    How we convert int to String in Java: using String.format()
+    How we convert int to String in Java: using DecimalFormat
+    How we convert int to String in Java: using StringBuffer or StringBuilder
+ */

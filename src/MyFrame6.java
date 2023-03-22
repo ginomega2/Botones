@@ -2,11 +2,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Random;
 
 //********************** 5 INTERACCION CON OTROS ELEMENTOS eriquetas    ********************************
 
 
-public class MyFrame5 extends JFrame implements ActionListener {
+public class MyFrame6 extends JFrame implements ActionListener {
 
     //Definimos el boton fuera del contructor para que sea global para todos los metodos del objeto
     JButton button;
@@ -15,15 +16,19 @@ public class MyFrame5 extends JFrame implements ActionListener {
     boolean esVisuble= false;
     int x=150;
 
-    MyFrame5(){
+    ImageIcon puerta1 = new ImageIcon(getClass().getResource("puerta1c.jpg"));
+    ImageIcon puerta2 = new ImageIcon(getClass().getResource("puerta2c.jpg"));
+    ImageIcon puerta3 = new ImageIcon(getClass().getResource("puerta3c.jpg"));
+    MyFrame6(){
         //Crear un icono para el boton
         ImageIcon icon = new ImageIcon(getClass().getResource("start.png")); //        Icon icon = new ImageIcon(getClass().getResource("start.png"));
 
 // 5.2 crear el labe y el icono para e label, defnr posicion y tamano y la visivilidada en false
-        ImageIcon puerta1 = new ImageIcon(getClass().getResource("puerta3c.jpg"));
+
+
 
         label.setIcon(puerta1);
-        label.setBounds(x,600,200,150);
+        label.setBounds(300,600,500,300);
         label.setVisible(esVisuble);
 
 
@@ -77,15 +82,28 @@ public class MyFrame5 extends JFrame implements ActionListener {
         //verificamos si el evento fue emitido por el boton
         if(e.getSource()==button){
             System.out.println("presionaste el boton de la ventana");
-// 5.3 CAMBIAMOS EL STATUS DE VISIBLE DE LA ETIQUTA
-            esVisuble= !esVisuble;
-            label.setVisible(esVisuble);
-// 5.4 opcional cambiar la posicion de la etiqueta
-            x+=20;
-            label.setBounds(x,600,200,150);
 
-            //OPCIONAL PODEMOS DESABILITAR EL BOTON practica: hacer que cuando se de click el boton se deshabilite
-            //            button.setEnabled(false);
+            if(!label.isVisible())
+                label.setVisible(true);
+
+            Random random = new Random();
+            int puertaAleatoria = random.nextInt(3)+1;
+            switch (puertaAleatoria){
+                case 1:
+                    label.setIcon(puerta1);
+                    label.setText("puerta de la desesperacion");
+                    break;
+                case 2:
+                    label.setIcon(puerta2);
+                    label.setText("puerta de la soledad");
+                    break;
+                case 3:
+                    label.setIcon(puerta3);
+                    label.setText("puerta de alcala");
+                    break;
+            }
+
+
 
 
         }

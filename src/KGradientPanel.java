@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package k33ptoo.components;
-import java.awt.*;
-import java.awt.event.MouseMotionListener;
+
 import javax.swing.*;
 import javax.swing.border.Border;
+import java.awt.*;
+import java.awt.event.MouseMotionListener;
 
 /**
  *

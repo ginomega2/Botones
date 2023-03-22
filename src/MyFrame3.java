@@ -2,20 +2,21 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//********************** 2  CREACION DE BOTONES     ********************************
+//********************** 3  VERSION AVANZADA DEL LISTENER CON EXPRESIONES LAMBDA Y CONTADOR DE CLICKS    ********************************
 
-//PASO 2  *************** Implwmwntar un Listener en la clase para el manejo de eventos
-public class MyFrame2 extends JFrame implements ActionListener {
+//PASO 3  *************** quitar la Implwmwntar ActionListener
+public class MyFrame3 extends JFrame {
 
-//2.1 Definimos el boton fuera del contructor para que sea global para todos los metodos del objeto
+    //Definimos el boton fuera del contructor para que sea global para todos los metodos del objeto
     JButton button;
-    MyFrame2(){
+    int contadorDeClicks =1;
+    MyFrame3(){
         // *************** Crear el boton con instancia y definir posicion y tamanio
         button = new JButton();
         button.setBounds(200,100, 100,50);
 
-//2.4  le agregamos un un Listener para escuchar acciones en el boton
-        button.addActionListener(this);
+//PASO 3.2  IMPLEMENTA LA EXPRESION LAMBDA EN EL LISTENER DE ACCIONES CON EL CONTADOR DE CLICKS
+        button.addActionListener(e-> System.out.println("expresiones lambda ejecutadas en el evento del boton = "+contadorDeClicks++));
 
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLayout(null);
@@ -26,13 +27,7 @@ public class MyFrame2 extends JFrame implements ActionListener {
         this.setVisible(true);
     }
 
-//2.3 este metodo permite ejecutar codigo al escuchar eventos
-    @Override
-    public void actionPerformed(ActionEvent e) {
-        //verificamos si el evento fue emitido por el boton
-        if(e.getSource()==button){
-            System.out.println("presionaste el boton de la ventana");
-        }
+//PASO 3.1 quitar el metodo implementado
 
     }
-}
+

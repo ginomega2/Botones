@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.k33ptoo.utils;
+package k33ptoo.utils;
 
 import java.awt.Component;
 import java.awt.Frame;

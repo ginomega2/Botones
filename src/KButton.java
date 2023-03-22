@@ -3,23 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package k33ptoo.components;
 
-import java.awt.Color;
-import java.awt.Component;
-import java.awt.Dimension;
-import java.awt.Font;
-import java.awt.GradientPaint;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.Rectangle;
-import java.awt.RenderingHints;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.font.FontRenderContext;
 import java.awt.geom.Rectangle2D;
-import javax.swing.BorderFactory;
-import javax.swing.JButton;
 
 /**
  *

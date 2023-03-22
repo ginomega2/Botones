@@ -1,4 +1,4 @@
-package com.k33ptoo.utils;
+package k33ptoo.utils;
 
 import java.awt.*;
 import java.awt.event.*;

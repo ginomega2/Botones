@@ -1,28 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="" />
+    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/SecuenciasDeEscape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/BusquedaEnUnaCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/BusquedaEnUnaCadena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/ContadorDePalabras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ContadorDePalabras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/MayusculasYMinusculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/MayusculasYMinusculas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClaseDepurar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseDepurar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComponentMoverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComponentMoverUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComponentResizerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComponentResizerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Estaticos/EstaticosRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estaticos/EstaticosRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Estaticos/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estaticos/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KGradientPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KGradientPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedirTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MedirTiempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/AccesoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/AccesoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/PorDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/PorDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Privado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Privado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Protejido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Protejido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NuevoSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NuevoSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseHija.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseHija.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Comentarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Comentarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Inicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Inicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ManejoDeEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ManejoDeEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ScopeDeVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ScopeDeVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/depurar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/depurar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guiPearson/GUI1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guiPearson/GUI1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guiPearson/GUI2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guiPearson/GUI2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/k33ptoo/components/KButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/components/KButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/k33ptoo/components/KGradientPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/components/KGradientPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/k33ptoo/radme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/radme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentMoverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentMoverUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentResizerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentResizerUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-17.0.5/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2N5ZTYvkKOWIgsPGAzy5OPbqK8g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Estaticos" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\proyectos\SWING\Botones\src" />
+      <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="guiPearson" />
+      <recent name="etiquetas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SecuenciasDeEscape">
+    <configuration name="BorraPantalla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.BorraPantalla" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadenasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.CadenasRunner" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClaseObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjetosBasicos.ClaseObject" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjetosBasicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColoDeTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.ColoDeTexto" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecuenciasDeEscape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.SecuenciasDeEscape" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cadenas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecuenciasDeEscape" />
+        <item itemvalue="Application.BorraPantalla" />
+        <item itemvalue="Application.CadenasRunner" />
+        <item itemvalue="Application.ColoDeTexto" />
+        <item itemvalue="Application.ClaseObject" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +197,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678955912165</updated>
+      <workItem from="1678955913867" duration="8494000" />
+      <workItem from="1678977268807" duration="10765000" />
+      <workItem from="1679040940311" duration="2192000" />
+      <workItem from="1679111421431" duration="5546000" />
+      <workItem from="1679138410000" duration="16738000" />
+      <workItem from="1679324746942" duration="5570000" />
+      <workItem from="1679351393939" duration="1654000" />
+      <workItem from="1679354500045" duration="5297000" />
+      <workItem from="1679366815296" duration="2507000" />
+      <workItem from="1679435982332" duration="14629000" />
+      <workItem from="1679451423165" duration="865000" />
+      <workItem from="1679456207424" duration="1062000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +225,47 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/depurar.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/depurar.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/depurar.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/depurar.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjetosBasicos/ClaseObject.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="objeto" />
+        <watch expression="objeto.getClass()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Botones$CadenasRunner.ic" NAME="CadenasRunner Coverage Results" MODIFIED="1679445071133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Cadenas.*</FILTER>
+    </SUITE>
   </component>
 </project>
