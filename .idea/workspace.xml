@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/SecuenciasDeEscape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
+      <change afterPath="$PROJECT_DIR$/src/Graficos/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graficos/MiVentana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graficos/MovimientoConTimerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graficos/espacio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graficos/ufo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graficos/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/espacio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ufo2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/BusquedaEnUnaCadena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/BusquedaEnUnaCadena.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/ContadorDePalabras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ContadorDePalabras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/MayusculasYMinusculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/MayusculasYMinusculas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClaseDepurar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseDepurar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComponentMoverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComponentMoverUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComponentResizerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComponentResizerUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estaticos/EstaticosRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estaticos/EstaticosRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estaticos/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estaticos/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KGradientPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KGradientPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MedirTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MedirTiempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/AccesoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/AccesoRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/PorDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/PorDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Privado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Privado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Protejido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresDeAcceso/Protejido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NuevoSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NuevoSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseHija.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseHija.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ClaseObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Comentarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Comentarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/Inicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/Inicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ManejoDeEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ManejoDeEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjetosBasicos/ScopeDeVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjetosBasicos/ScopeDeVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/depurar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/depurar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guiPearson/GUI1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guiPearson/GUI1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guiPearson/GUI2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guiPearson/GUI2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/k33ptoo/components/KButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/components/KButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/k33ptoo/components/KGradientPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/components/KGradientPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/k33ptoo/radme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/radme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentMoverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentMoverUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentResizerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/k33ptoo/utils/ComponentResizerUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +53,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src/Graficos&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Graficos" />
       <recent name="Estaticos" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\proyectos\SWING\Botones\src\Graficos" />
       <recent name="E:\proyectos\SWING\Botones\src" />
       <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
     </key>
@@ -113,7 +74,7 @@
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecuenciasDeEscape">
+  <component name="RunManager" selected="Application.BorraPantalla">
     <configuration name="BorraPantalla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cadenas.BorraPantalla" />
       <module name="Botones" />
@@ -140,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClaseObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjetosBasicos.ClaseObject" />
+    <configuration name="EtiquetasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="etiquetas.EtiquetasRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjetosBasicos.*" />
+          <option name="PATTERN" value="etiquetas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ColoDeTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.ColoDeTexto" />
+    <configuration name="MovimientoConTimerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graficos.MovimientoConTimerRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cadenas.*" />
+          <option name="PATTERN" value="Graficos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecuenciasDeEscape" />
         <item itemvalue="Application.BorraPantalla" />
+        <item itemvalue="Application.MovimientoConTimerRunner" />
+        <item itemvalue="Application.EtiquetasRunner" />
+        <item itemvalue="Application.SecuenciasDeEscape" />
         <item itemvalue="Application.CadenasRunner" />
-        <item itemvalue="Application.ColoDeTexto" />
-        <item itemvalue="Application.ClaseObject" />
       </list>
     </recent_temporary>
   </component>
@@ -208,8 +169,18 @@
       <workItem from="1679366815296" duration="2507000" />
       <workItem from="1679435982332" duration="14629000" />
       <workItem from="1679451423165" duration="865000" />
-      <workItem from="1679456207424" duration="1062000" />
+      <workItem from="1679456207424" duration="3247000" />
+      <workItem from="1679521228481" duration="1285000" />
+      <workItem from="1679560524380" duration="6892000" />
     </task>
+    <task id="LOCAL-00001" summary="acutalizacio">
+      <created>1679457437810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679457437810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +196,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="acutalizacio" />
+    <option name="LAST_COMMIT_MESSAGE" value="acutalizacio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,6 +235,13 @@
       <configuration name="Application">
         <watch expression="objeto" />
         <watch expression="objeto.getClass()" />
+        <watch expression="puerta3" language="JAVA" />
+        <watch expression="enemy" language="JAVA" />
+        <watch expression="x" language="JAVA" />
+        <watch expression="xvel" language="JAVA" />
+        <watch expression="xVel" language="JAVA" />
+        <watch expression="xVelocidad" />
+        <watch expression="xVel" />
       </configuration>
     </watches-manager>
   </component>
