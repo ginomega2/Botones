@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/Graficos/MiPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/MiVentana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/MovimientoConTimerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/espacio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/ufo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/whatsapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/espacio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ufo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnsiColorsEscSeq/CodigosAnsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/CapturaConJPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/CuentaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/MsgColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/MsgColorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/PrintConFormato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas/PrintF2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/LambaMensajeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesConColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesEnVentana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesSinColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/ServidorDeMensajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Primitivos/PrimitivosRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/EjemploSwitchNuevo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/SwitchConEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/SwitchConStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsoDePrintf/PrintfConNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,19 +59,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src/Graficos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/proyectos/SWING/AbsoluteLayout-RELEASE170.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="FunctionalInterfaces" />
       <recent name="Graficos" />
       <recent name="Estaticos" />
       <recent name="" />
@@ -69,14 +87,41 @@
       <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Cadenas" />
       <recent name="" />
       <recent name="guiPearson" />
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BorraPantalla">
-    <configuration name="BorraPantalla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.BorraPantalla" />
+  <component name="RunManager" selected="Application.EnumeracionRunner">
+    <configuration name="CodigosAnsi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnsiColorsEscSeq.CodigosAnsi" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AnsiColorsEscSeq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumeracionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enumeraciones.EnumeracionRunner" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enumeraciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsgColorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.MsgColorRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadenasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.CadenasRunner" />
+    <configuration name="PrintConFormato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.PrintConFormato" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
@@ -101,38 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtiquetasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="etiquetas.EtiquetasRunner" />
+    <configuration name="PrintfConNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoDePrintf.PrintfConNumeros" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="etiquetas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovimientoConTimerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graficos.MovimientoConTimerRunner" />
-      <module name="Botones" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graficos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecuenciasDeEscape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.SecuenciasDeEscape" />
-      <module name="Botones" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cadenas.*" />
+          <option name="PATTERN" value="UsoDePrintf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BorraPantalla" />
-        <item itemvalue="Application.MovimientoConTimerRunner" />
-        <item itemvalue="Application.EtiquetasRunner" />
-        <item itemvalue="Application.SecuenciasDeEscape" />
-        <item itemvalue="Application.CadenasRunner" />
+        <item itemvalue="Application.EnumeracionRunner" />
+        <item itemvalue="Application.PrintfConNumeros" />
+        <item itemvalue="Application.CodigosAnsi" />
+        <item itemvalue="Application.PrintConFormato" />
+        <item itemvalue="Application.MsgColorRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +191,12 @@
       <workItem from="1679456207424" duration="3247000" />
       <workItem from="1679521228481" duration="1285000" />
       <workItem from="1679560524380" duration="6892000" />
+      <workItem from="1679674421245" duration="1442000" />
+      <workItem from="1679693616725" duration="45722000" />
+      <workItem from="1680056335460" duration="1992000" />
+      <workItem from="1680060066854" duration="372000" />
+      <workItem from="1680195182961" duration="13000" />
+      <workItem from="1680196573750" duration="11051000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -180,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679457437810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="acutalizacio">
+      <created>1679674648905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679674648905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

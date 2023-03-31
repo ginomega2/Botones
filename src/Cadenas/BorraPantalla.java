@@ -15,6 +15,9 @@ public class BorraPantalla {
         new ProcessBuilder("cmd", "/c", "java --version").inheritIO().start().waitFor();
         new ProcessBuilder("cmd", "/c", "notepad").inheritIO().start().waitFor();
 
+        new ProcessBuilder("cmd", "/c", "").inheritIO().start().waitFor();
+
+        //  firefox file:///E:/proyectos/index.html
 
 //        try
 //        {

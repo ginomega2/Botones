@@ -109,9 +109,5 @@ public class EnumeracionRunner {
 
         System.out.println("DiaSemana.values()[6]  =  "+DiaSemana.values()[6]);
 
-
-
-
-
     }
 }
