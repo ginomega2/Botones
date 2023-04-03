@@ -4,7 +4,7 @@ import javax.swing.*;
 public class Etiquetas1 {
 
 // 1.1 CREAMOS LA ETIQUETA Y LE AGREGAMOS UN ICONO
-    ImageIcon whastapp = new ImageIcon(getClass().getResource("whatsapp.png"));
+    ImageIcon whastapp = new ImageIcon(getClass().getResource("whatsapp2.png"));
     ImageIcon imagen = new ImageIcon(getClass().getResource("hogar.png"));
 
     Etiquetas1(){
