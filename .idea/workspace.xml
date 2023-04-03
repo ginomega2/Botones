@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/Estaticos/leeme.md" afterDir="false" />
-    </list>
+    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +175,7 @@
       <workItem from="1680195182961" duration="13000" />
       <workItem from="1680196573750" duration="13659000" />
       <workItem from="1680305800427" duration="3171000" />
-      <workItem from="1680559323636" duration="521000" />
+      <workItem from="1680559323636" duration="931000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -221,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680559659438</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="acutalizacio">
+      <created>1680559855546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680559855546</updated>
+    </task>
+    <task id="LOCAL-00008" summary="acutalizacio">
+      <created>1680559934427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680559934427</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
