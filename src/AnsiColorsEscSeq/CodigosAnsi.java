@@ -113,7 +113,7 @@ public class CodigosAnsi {
     }
 
     private static void inverso() {
-        System.out.println("\u001b[7m");
+        System.out.print("\u001b[7m");
     }
 
     private static void subRaya() {

@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/AnsiColorsEscSeq/CodigosAnsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/CapturaConJPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/CuentaRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/MsgColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/MsgColorRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/PrintConFormato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cadenas/PrintF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/LambaMensajeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesConColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesEnVentana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/MensajesSinColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaces/ServidorDeMensajes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primitivos/PrimitivosRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/EjemploSwitchNuevo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/SwitchConEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchNuevo/SwitchConStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrintf/PrintfConNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/BorraPantalla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ColoDeTexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumeracionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnsiColorsEscSeq/CodigosAnsi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnsiColorsEscSeq/CodigosAnsi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/proyectos/SWING/AbsoluteLayout-RELEASE170.jar",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/AbsoluteLayout-RELEASE170.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FunctionalInterfaces" />
@@ -93,7 +72,7 @@
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumeracionRunner">
+  <component name="RunManager" selected="Application.PrimitivosRunner">
     <configuration name="CodigosAnsi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnsiColorsEscSeq.CodigosAnsi" />
       <module name="Botones" />
@@ -120,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MsgColorRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.MsgColorRunner" />
+    <configuration name="PrimitivosRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Primitivos.PrimitivosRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cadenas.*" />
+          <option name="PATTERN" value="Primitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosRunner" />
         <item itemvalue="Application.EnumeracionRunner" />
         <item itemvalue="Application.PrintfConNumeros" />
         <item itemvalue="Application.CodigosAnsi" />
         <item itemvalue="Application.PrintConFormato" />
-        <item itemvalue="Application.MsgColorRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +175,8 @@
       <workItem from="1680056335460" duration="1992000" />
       <workItem from="1680060066854" duration="372000" />
       <workItem from="1680195182961" duration="13000" />
-      <workItem from="1680196573750" duration="11051000" />
+      <workItem from="1680196573750" duration="13659000" />
+      <workItem from="1680305800427" duration="3171000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -212,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679674648905</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="acutalizacio">
+      <created>1680276186582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680276186582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="acutalizacio">
+      <created>1680276217269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680276217269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
