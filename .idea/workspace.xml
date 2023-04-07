@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/etiquetas/whatsapp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos/ArreglosRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arreglos/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/Etiquetas1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etiquetas/EtiquetasRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/proyectos/SWING/Botones/src/etiquetas",
+    "last_opened_file_path": "E:/proyectos/SWING/Botones/src",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
@@ -57,16 +57,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Arreglos" />
       <recent name="FunctionalInterfaces" />
       <recent name="Graficos" />
       <recent name="Estaticos" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\proyectos\SWING\Botones\src" />
       <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
       <recent name="E:\proyectos\SWING\Botones\src\UsoDePrintf" />
       <recent name="E:\proyectos\SWING\Botones\src\Graficos" />
-      <recent name="E:\proyectos\SWING\Botones\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Cadenas" />
@@ -75,13 +76,13 @@
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EtiquetasRunner">
-    <configuration name="CodigosAnsi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnsiColorsEscSeq.CodigosAnsi" />
+  <component name="RunManager" selected="Application.ArreglosRunner">
+    <configuration name="ArreglosRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arreglos.ArreglosRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnsiColorsEscSeq.*" />
+          <option name="PATTERN" value="Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambaMensajeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaces.LambaMensajeDemo" />
+      <module name="Botones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionalInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitivosRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Primitivos.PrimitivosRunner" />
       <module name="Botones" />
@@ -128,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintfConNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsoDePrintf.PrintfConNumeros" />
-      <module name="Botones" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UsoDePrintf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArreglosRunner" />
+        <item itemvalue="Application.LambaMensajeDemo" />
         <item itemvalue="Application.EtiquetasRunner" />
         <item itemvalue="Application.PrimitivosRunner" />
         <item itemvalue="Application.EnumeracionRunner" />
-        <item itemvalue="Application.PrintfConNumeros" />
-        <item itemvalue="Application.CodigosAnsi" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +183,7 @@
       <workItem from="1680305800427" duration="3171000" />
       <workItem from="1680559323636" duration="931000" />
       <workItem from="1680535080886" duration="115000" />
-      <workItem from="1680535233745" duration="798000" />
+      <workItem from="1680535233745" duration="3367000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -247,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680535091832</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="acutalizacio">
+      <created>1680536047155</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680536047155</updated>
+    </task>
+    <task id="LOCAL-00011" summary="acutalizacio">
+      <created>1680536215702</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680536215702</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

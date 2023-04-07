@@ -10,7 +10,7 @@ public class Etiquetas1 {
     Etiquetas1(){
 // 1.1 CREAMOS LA ETIQUETA Y LE AGREGAMOS UN TEXRO Y UN ICONO
         JLabel label =  new JLabel("Contacto de whatsapp 66 99 55 44 88 77 ");
-        label.setIcon(whastapp);
+//        label.setIcon(whastapp);
 
         JFrame frame = new JFrame();//crea el frame
         frame.setTitle("Etiquetas 1 ");//título 2de la ventana
