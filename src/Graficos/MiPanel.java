@@ -21,7 +21,8 @@ public class MiPanel extends JPanel implements ActionListener {
     MiPanel(){
         this.setPreferredSize(new Dimension(PANEL_ANCHO,PANEL_ALTO));
         this.setBackground(Color.black);
-        enemy=new ImageIcon(getClass().getResource("ufo2.png")).getImage();
+//        enemy=new ImageIcon(getClass().getResource("ufo2.png")).getImage();
+        enemy=new ImageIcon(getClass().getResource("titan01.png")).getImage();
         fondoImagen= new ImageIcon(getClass().getResource("espacio.jpg")).getImage();
 //        enemy=new ImageIcon("Graficos/whatsapp.png").getImage();
         System.out.println(enemy.getSource());
