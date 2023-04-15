@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/Graficos/titan01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graficos/titan2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilas/Pila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilas/Pila2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilas/Pila3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilas/PilasRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/titan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/titan01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graficos/MiPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graficos/MiPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/proyectos/SWING/Botones/src/Graficos",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Arreglos" />
@@ -70,8 +61,8 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\proyectos\SWING\Botones\src" />
       <recent name="E:\proyectos\SWING\Botones\src\Graficos" />
+      <recent name="E:\proyectos\SWING\Botones\src" />
       <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
       <recent name="E:\proyectos\SWING\Botones\src\UsoDePrintf" />
     </key>
@@ -199,6 +190,7 @@
       <workItem from="1681423922445" duration="374000" />
       <workItem from="1681445845538" duration="348000" />
       <workItem from="1681463420573" duration="2864000" />
+      <workItem from="1681488748392" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -291,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680884825995</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="acutalizacio">
+      <created>1681488837020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681488837020</updated>
+    </task>
+    <task id="LOCAL-00015" summary="acutalizacio">
+      <created>1681488994195</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681488994195</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
