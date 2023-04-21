@@ -241,11 +241,12 @@ public class CadenasRunner {
 
 
 
-        cadena1="ramona";
+        cadena1="ramona🍔🧇🥞🥯╰(*°▽°*)╯  🛺🚑🚎🍔🍳🧧👵👴🥰👍😐 ";
         cadena2="ramones";
 
 
         System.out.println(cadena1.compareTo(cadena2));
         System.out.println(cadena1.contains("mon"));
+        System.out.println(cadena1);
     }
 }

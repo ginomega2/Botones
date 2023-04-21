@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
+      <change afterPath="$PROJECT_DIR$/src/com/animales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Zologico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia2/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia2/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia2/Zologico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Gorrion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Pollo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Zologico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Gorrion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Pollo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Volable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Zologico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Gorrion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Pollo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Volable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Zologico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,12 +74,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/proyectos/SWING/Botones/src/Graficos",
+    "last_opened_file_path": "E:/proyectos/SWING/Botones/src/herencia5ClasesAbstractas",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,10 +91,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\proyectos\SWING\Botones\src\herencia5ClasesAbstractas" />
+      <recent name="E:\proyectos\SWING\Botones\src\herencia4Interfaces" />
+      <recent name="E:\proyectos\SWING\Botones\src\herencia3Interfaces" />
+      <recent name="E:\proyectos\SWING\Botones\src\herencia2" />
       <recent name="E:\proyectos\SWING\Botones\src\Graficos" />
-      <recent name="E:\proyectos\SWING\Botones\src" />
-      <recent name="E:\proyectos\SWING\Botones\src\etiquetas" />
-      <recent name="E:\proyectos\SWING\Botones\src\UsoDePrintf" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Pilas" />
@@ -74,13 +105,13 @@
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MovimientoConTimerRunner">
-    <configuration name="ArreglosRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arreglos.ArreglosRunner" />
+  <component name="RunManager" selected="Application.herencia4Interfaces.Zologico">
+    <configuration name="CadenasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas.CadenasRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arreglos.*" />
+          <option name="PATTERN" value="Cadenas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtiquetasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="etiquetas.EtiquetasRunner" />
+    <configuration name="Zologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia.Zologico" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="etiquetas.*" />
+          <option name="PATTERN" value="herencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambaMensajeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaces.LambaMensajeDemo" />
+    <configuration name="herencia2.Zologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia2.Zologico" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterfaces.*" />
+          <option name="PATTERN" value="herencia2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovimientoConTimerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graficos.MovimientoConTimerRunner" />
+    <configuration name="herencia3Interfaces.Zologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia3Interfaces.Zologico" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graficos.*" />
+          <option name="PATTERN" value="herencia3Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PilasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pilas.PilasRunner" />
+    <configuration name="herencia4Interfaces.Zologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia4Interfaces.Zologico" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pilas.*" />
+          <option name="PATTERN" value="herencia4Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovimientoConTimerRunner" />
-        <item itemvalue="Application.EtiquetasRunner" />
-        <item itemvalue="Application.PilasRunner" />
-        <item itemvalue="Application.ArreglosRunner" />
-        <item itemvalue="Application.LambaMensajeDemo" />
+        <item itemvalue="Application.herencia4Interfaces.Zologico" />
+        <item itemvalue="Application.herencia3Interfaces.Zologico" />
+        <item itemvalue="Application.herencia2.Zologico" />
+        <item itemvalue="Application.Zologico" />
+        <item itemvalue="Application.CadenasRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +222,10 @@
       <workItem from="1681445845538" duration="348000" />
       <workItem from="1681463420573" duration="2864000" />
       <workItem from="1681488748392" duration="1430000" />
+      <workItem from="1681521572853" duration="2193000" />
+      <workItem from="1681544277304" duration="612000" />
+      <workItem from="1681584874377" duration="616000" />
+      <workItem from="1682002088220" duration="3865000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -297,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681488994195</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="acutalizacio">
+      <created>1681521584201</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681521584201</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +403,10 @@
         <watch expression="xVel" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Botones$CadenasRunner.ic" NAME="CadenasRunner Coverage Results" MODIFIED="1679445071133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
