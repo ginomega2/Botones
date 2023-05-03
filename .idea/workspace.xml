@@ -1,38 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizacio">
-      <change afterPath="$PROJECT_DIR$/src/com/animales/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Pez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Zologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia2/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia2/Pez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia2/Zologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Gorrion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Pez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Pollo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia3Interfaces/Zologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Gorrion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Pez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Pollo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Volable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia4Interfaces/Zologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Gorrion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Pez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Pollo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Volable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia5ClasesAbstractas/Zologico.java" afterDir="false" />
+    <list default="true" id="62b1b95e-285f-4c81-b044-aa7f705fd540" name="Changes" comment="acutalizfdzgacio">
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/impuestos/CalculadoraImpuestos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/impuestos/ReporteImpuestos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/impuestos/RunnerCalculadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/CadenasRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UsoDePrintf/PrintfConNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsoDePrintf/PrintfConNumeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/proyectos/SWING/Botones/src/herencia5ClasesAbstractas",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/proyectos/SWING/Botones/src/herencia5ClasesAbstractas&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Arreglos" />
@@ -105,13 +79,13 @@
       <recent name="etiquetas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.herencia4Interfaces.Zologico">
-    <configuration name="CadenasRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas.CadenasRunner" />
+  <component name="RunManager" selected="Application.PrintfConNumeros">
+    <configuration name="MovimientoConTimerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graficos.MovimientoConTimerRunner" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cadenas.*" />
+          <option name="PATTERN" value="Graficos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herencia.Zologico" />
+    <configuration name="PrintfConNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsoDePrintf.PrintfConNumeros" />
       <module name="Botones" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="herencia.*" />
+          <option name="PATTERN" value="UsoDePrintf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintfConNumeros" />
+        <item itemvalue="Application.MovimientoConTimerRunner" />
         <item itemvalue="Application.herencia4Interfaces.Zologico" />
         <item itemvalue="Application.herencia3Interfaces.Zologico" />
         <item itemvalue="Application.herencia2.Zologico" />
-        <item itemvalue="Application.Zologico" />
-        <item itemvalue="Application.CadenasRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +200,13 @@
       <workItem from="1681544277304" duration="612000" />
       <workItem from="1681584874377" duration="616000" />
       <workItem from="1682002088220" duration="3865000" />
+      <workItem from="1682084387217" duration="168000" />
+      <workItem from="1682154878152" duration="595000" />
+      <workItem from="1682390060564" duration="7000" />
+      <workItem from="1682584731933" duration="594000" />
+      <workItem from="1682649848235" duration="1161000" />
+      <workItem from="1682957879085" duration="930000" />
+      <workItem from="1683129482954" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="acutalizacio">
       <created>1679457437810</created>
@@ -339,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681521584201</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="acutalizfdzgacio">
+      <created>1682084464428</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682084464428</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +346,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="acutalizacio" />
-    <option name="LAST_COMMIT_MESSAGE" value="acutalizacio" />
+    <MESSAGE value="acutalizfdzgacio" />
+    <option name="LAST_COMMIT_MESSAGE" value="acutalizfdzgacio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

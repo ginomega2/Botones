@@ -11,7 +11,7 @@ package UsoDePrintf;
 public class PrintfConNumeros {
     public static void main(String[] args) {
 
-//        System.out.printf("numero float segundo parametro  %2$-,+8.3f   y primer parametro %1$-,(10.2f ",-1234.12345678,-32654.987654);
+        System.out.printf("numero float segundo parametro  %2$-,+8.3f   y primer parametro %1$-,(10.2f ",-1234.12345678,-32654.987654);
 
 
 
