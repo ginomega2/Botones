@@ -45,6 +45,7 @@ public class Persona {
     }
 
     public double getImpuesto() {
+        calculadoraImpuestos.calcularImpuesto();
         return impuesto;
     }
 }
